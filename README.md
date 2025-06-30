@@ -16,7 +16,7 @@ Features:
 - User-Friendly Interface: Simple setup and easy-to-use commands make the tool accessible for everyone.
 - Open Source: Review, modify, and contribute to the code as it is fully open-source.
 
-- Downloads Pre-Compiled: https://github.com/3Lexa/Discord-Mass-DM-Tool/releases/download/V2/Discord.Mass.DM.Tool.zip
+- Downloads Pre-Compiled: https://github.com/3Lexa/Discord-Mass-DM/releases/tag/DiscordMassDM
 
   ---
 
